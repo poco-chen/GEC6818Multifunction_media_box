@@ -1,0 +1,8 @@
+//
+// Created by 陈宇轩 on 2024/8/24.
+//
+
+#ifndef MULTIFUNCTION_MEDIA_BOX_ALBUM_H
+#define MULTIFUNCTION_MEDIA_BOX_ALBUM_H
+#include"list.h"
+#endif //MULTIFUNCTION_MEDIA_BOX_ALBUM_H
